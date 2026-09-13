@@ -8,9 +8,9 @@ A modern and responsive Arabic perfume store built with **React, Vite, Tailwind 
 
 ## ✨ About The Project
 
-**Attar Perfume** is a modern Arabic perfume store designed to showcase luxury fragrances through an elegant, immersive, and responsive shopping experience.
+**Attar Perfume** is a modern Arabic perfume store designed to present luxury fragrances through an elegant, immersive, and responsive shopping experience.
 
-The project combines a luxury-inspired visual style with interactive UI elements, animated sections, product showcases, special offers, testimonials, and a dedicated login interface.
+The project combines a soft luxury-inspired visual style with interactive UI elements, animated sections, product showcases, special offers, testimonials, and a dedicated login interface.
 
 It was built as a practical **React learning and frontend development project**, focusing on reusable components, dynamic data rendering, responsive layouts, routing, animations, and modern UI development.
 
@@ -31,6 +31,7 @@ It was built as a practical **React learning and frontend development project**,
 * 👁️ Password visibility toggle
 * 🧭 React Router navigation
 * 📱 Responsive navigation menu
+* 📲 Fully responsive design
 * ✨ Smooth scrolling experience
 * 🎨 Luxury-inspired visual design
 * 🧩 Reusable React components
@@ -39,14 +40,7 @@ It was built as a practical **React learning and frontend development project**,
 
 ## 🛠️ Technologies
 
-![React](https://img.shields.io/badge/React-2026-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-2026-1A1A1A?style=for-the-badge\&logo=vite\&logoColor=646CFF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2026-111827?style=for-the-badge\&logo=tailwindcss\&logoColor=06B6D4)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-2026-111111?style=for-the-badge\&logo=framer\&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-2026-111111?style=for-the-badge\&logo=reactrouter\&logoColor=F44250)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?style=for-the-badge\&logo=fontawesome\&logoColor=white)
-![React Icons](https://img.shields.io/badge/React_Icons-2026-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+[![React](https://img.shields.io/badge/React-2026-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)](https://react.dev/) [![Vite](https://img.shields.io/badge/Vite-2026-1A1A1A?style=for-the-badge\&logo=vite\&logoColor=646CFF)](https://vite.dev/) [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2026-111827?style=for-the-badge\&logo=tailwindcss\&logoColor=06B6D4)](https://tailwindcss.com/) [![Framer Motion](https://img.shields.io/badge/Framer_Motion-2026-111111?style=for-the-badge\&logo=framer\&logoColor=white)](https://motion.dev/) [![React Router](https://img.shields.io/badge/React_Router-2026-111111?style=for-the-badge\&logo=reactrouter\&logoColor=F44250)](https://reactrouter.com/) [![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?style=for-the-badge\&logo=fontawesome\&logoColor=white)](https://fontawesome.com/) [![React Icons](https://img.shields.io/badge/React_Icons-2026-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)](https://react-icons.github.io/react-icons/)
 
 ---
 
@@ -144,7 +138,7 @@ Responsive layouts were implemented using **Tailwind CSS**, allowing navigation,
 
 ## ⚛️ React Architecture
 
-The project was structured using reusable React components to keep the interface organized, maintainable, and easy to extend.
+The project was structured using reusable React components instead of building the interface as one large page.
 
 ### Main Components
 
@@ -159,8 +153,6 @@ The project was structured using reusable React components to keep the interface
 * `Contact`
 * `Footer`
 * `Login`
-
-The application uses reusable components and dynamic data rendering to avoid repeating UI structures.
 
 ---
 
@@ -247,4 +239,5 @@ Passionate about building modern, responsive, and interactive web experiences wh
 ---
 
 ### 🌸 Designed & Developed by Asmaa Qandil ✨
+
 
