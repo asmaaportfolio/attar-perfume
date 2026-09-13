@@ -2,7 +2,9 @@
 
 ### ✨ Eastern Luxury • Elegant Fragrance • Modern Experience
 
-A modern and responsive Arabic perfume store built with **React, Vite, Tailwind CSS, and Framer Motion**.
+## 📸 Preview
+
+![Attar Perfume Website](screenshots/home.png)
 
 ---
 
@@ -40,7 +42,16 @@ It was built as a practical **React learning and frontend development project**,
 
 ## 🛠️ Technologies
 
-[![React](https://img.shields.io/badge/React-2026-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)](https://react.dev/) [![Vite](https://img.shields.io/badge/Vite-2026-1A1A1A?style=for-the-badge\&logo=vite\&logoColor=646CFF)](https://vite.dev/) [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2026-111827?style=for-the-badge\&logo=tailwindcss\&logoColor=06B6D4)](https://tailwindcss.com/) [![Framer Motion](https://img.shields.io/badge/Framer_Motion-2026-111111?style=for-the-badge\&logo=framer\&logoColor=white)](https://motion.dev/) [![React Router](https://img.shields.io/badge/React_Router-2026-111111?style=for-the-badge\&logo=reactrouter\&logoColor=F44250)](https://reactrouter.com/) [![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?style=for-the-badge\&logo=fontawesome\&logoColor=white)](https://fontawesome.com/) [![React Icons](https://img.shields.io/badge/React_Icons-2026-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)](https://react-icons.github.io/react-icons/)
+<p>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-2026-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  <a href="https://vite.dev/"><img src="https://img.shields.io/badge/Vite-2026-1A1A1A?style=for-the-badge&logo=vite&logoColor=646CFF" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-2026-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" /></a>
+  <a href="https://motion.dev/"><img src="https://img.shields.io/badge/Framer_Motion-2026-111111?style=for-the-badge&logo=framer&logoColor=white" /></a>
+  <a href="https://reactrouter.com/"><img src="https://img.shields.io/badge/React_Router-2026-111111?style=for-the-badge&logo=reactrouter&logoColor=F44250" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+  <a href="https://fontawesome.com/"><img src="https://img.shields.io/badge/Font_Awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white" /></a>
+  <a href="https://react-icons.github.io/react-icons/"><img src="https://img.shields.io/badge/React_Icons-2026-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+</p>
 
 ---
 
@@ -239,5 +250,6 @@ Passionate about building modern, responsive, and interactive web experiences wh
 ---
 
 ### 🌸 Designed & Developed by Asmaa Qandil ✨
+
 
 
