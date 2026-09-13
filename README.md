@@ -40,19 +40,12 @@ It was built as a practical **React learning and frontend development project**,
 ## 🛠️ Technologies
 
 ![React](https://img.shields.io/badge/React-2026-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
 ![Vite](https://img.shields.io/badge/Vite-2026-1A1A1A?style=for-the-badge\&logo=vite\&logoColor=646CFF)
-
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2026-111827?style=for-the-badge\&logo=tailwindcss\&logoColor=06B6D4)
-
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-2026-111111?style=for-the-badge\&logo=framer\&logoColor=white)
-
 ![React Router](https://img.shields.io/badge/React_Router-2026-111111?style=for-the-badge\&logo=reactrouter\&logoColor=F44250)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
 ![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?style=for-the-badge\&logo=fontawesome\&logoColor=white)
-
 ![React Icons](https://img.shields.io/badge/React_Icons-2026-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
 ---
