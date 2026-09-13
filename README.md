@@ -209,36 +209,6 @@ Possible future improvements include:
 
 ---
 
-## 🚀 Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/asmaaportfolio/attar-perfume.git
-```
-
-### Navigate to the Project
-
-```bash
-cd attar-perfume
-```
-
-### Install Dependencies
-
-```bash
-npm install
-```
-
-### Start the Development Server
-
-```bash
-npm run dev
-```
-
-The application will be available at the local URL provided by Vite.
-
----
-
 ## 👩‍💻 Author
 
 ### Asmaa Qandil
@@ -250,6 +220,3 @@ Passionate about building modern, responsive, and interactive web experiences wh
 ---
 
 ### 🌸 Designed & Developed by Asmaa Qandil ✨
-
-
-
